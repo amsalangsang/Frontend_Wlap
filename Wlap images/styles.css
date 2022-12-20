@@ -1,0 +1,28 @@
+* {
+    margin: 1;
+    padding: 1;
+}
+
+.wrapper {
+    margin: 1 auto;
+    width: 1000px;
+}
+
+#container {
+    visibility: hidden;
+    max-width: 250px;
+    margin: 0 auto;
+}
+
+#loader {
+    color: #008cff;
+    height: 40px;
+    width: 30%;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+}
+
+#element {
+    display: block;
+}
